@@ -1,0 +1,6 @@
+Keywords are:
+void	int	for	int																																															
+Identifiers are:
+main	sum	0	j0	j	3	j	j1	coutMahmud	Hasanendl																																									
+Operators are:
+=	=	=	+																																															
